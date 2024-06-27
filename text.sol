@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity 0.8.26;
 
-contract ExampleContract {
+contract EContract {
     address public owner;
     uint public num;
     uint public value;
